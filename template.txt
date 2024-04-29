@@ -26,3 +26,6 @@ const templateId = "template_h31bthj";
 const serviceId = "service_d6me3am";
 const userId = "TW3eLRAOMUcH1InEX";
 const templateId = "template_nozg909";
+
+// email loger
+ to_name: "fredrickugoo@gmail.com",
